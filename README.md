@@ -1,4 +1,3 @@
-<link rel="stylesheet" href="https://hudsongreen.com/css/font-awesome.min.css">
 <h1 align="center">Hudson Green</h1>
-<h3 align="center"><i class="fa fa-github"></i> @HudsonGTV</h3>
+<h3 align="center"><img src="./assets/github.svg"> @HudsonGTV</h3>
 <p align="center">You can find some of my projects here.</p>
